@@ -31,7 +31,7 @@ Below are some images from the application:
 ![Agency Login](images/4.jpg)
 
 #### Disaster News
-![Disaster News](images/2jpg)
+![Disaster News](images/2.jpg)
 
 ## Getting Started
 
